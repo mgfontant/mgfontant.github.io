@@ -45,5 +45,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-
-theme: jekyll-theme-time-machine
