@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Journaliste en devenir'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+J’aime écouter, écrire, raconter, partager, donner la parole à ceux à qui on ne la donne pas. J’aime apprendre et aller plus loin. Pour moi, être journaliste, c’est avant tout oser, être engagé, passionné et savoir encaisser. J’y travaille.
+
+Voici quelques-unes de mes réalisations. C’est un grand mot, mais vous pouvez jeter un coup d'œil aux reportages comme aux présentations ou tournages plateaux. Cette année est l’année de toutes les expériences en terme de journalisme: tournage, rédaction, présentation… Quel épanouissement que ce métier !

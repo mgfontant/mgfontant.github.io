@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: Marie-Galante
+subtitle: Fontant
+email: mariegalante.fontant@gmail.com
+description: Alternante à l'Agence de presse méditerranéenne à Perpignan et étudiante à l'Institut Supérieur de Formation au Journalisme à Paris, j'ai trouvé ma voie dans le journalisme audiovisuel. Caméra à l'épaule ou sur trépied je parcours les rues de Perpignan pour donner la parole et la partager. Actuellement, rédactrice et journaliste reporter d'images, j'aimerais tenter l'expérience du documentaire. En espérant pouvoir en réaliser, un jour, à mon tour.
+baseurl: # the subpath of your site, e.g. /blog
+url: https://mgfontant.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,15 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub:
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  YouTube: https://www.youtube.com/channel/UC_0QH6pd9FWcpAfgE-Bm3Wg
+  LinkedIn: https://www.linkedin.com/in/marie-galante-fontant-0756351b7
+  Twitter: https://twitter.com/MgFontant
+  envelope: mailto:mariegalante.fontant@gmail.com
+  file: assets/images/cv.pdf
   Facebook:
   Slack:
 
