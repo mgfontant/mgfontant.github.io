@@ -39,7 +39,7 @@ last: false
 				<header class="major">
 					<h3>Corporate</h3>
 				</header>
-				<p>Notre module “FOCUS”, est une émission de décryptage d’actualité en méditerranée. Après avoir réalisé le reportage, je me suis attelé au lancement et à la présentation de ce dernier. Le lancement est un exercice que je trouve particulièrement compliqué, si j’aime l’écrire, le présenter oralement est une toute autre tâche. Il s’agit d’avoir un débit régulier, pas trop rapide, d’articuler, tout en étant assez dynamique mais de ne pas trop exagérer les intonations pour ne pas tomber dans la caricature et surtout savoir comment positionner mes mains sur un plateau et devant une caméra. Je dois l’avouer je n’ai pas encore tout à fait trouver la technique pour paraître plus à l’aise, mais à force d’exercice et de remarques extérieurs je m’améliore.</p>
+				<p>L’Agence de presse méditerranéenne est aussi une agence de production. Disposant d’un plateau télé, d’une salle de montage et d’une régie, nous pouvons entreprendre des projets extérieurs comme celui-ci. L’ALDP est une association perpignanaise qui réalise des chroniques sur des sujets sociétaux et qui fait de la sensibilisation. En l'occurrence ce premier épisode cherche à attirer l’attention sur le dépistage du cancer du sein. Pour cet épisode, je me suis occupé du micro-trottoir ainsi que du tournage plateau. C’est en faisant le micro-trottoir que je me suis rendu compte à quel point les Français n’étaient pas du tout au courant de cette maladie alors que c’est le cancer le plus fréquent et le plus meurtrier chez les femmes. En général, nous laissons le plus souvent nos clients s’occuper eux-mêmes de la production: recherche d’invités, écriture du texte… Sauf cas présent.</p>
 			</div>
 		</div>
 	</section>
