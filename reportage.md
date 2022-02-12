@@ -30,7 +30,7 @@ last: true
 				<header class="major">
 					<h3>Reportage pour Reuters</h3>
 				</header>
-				<p>Premier reportage vendu à une agence de presse britannique. Revendu 12 fois à des chaînes comme Cnews, Rfi et dans 6 pays étrangers. Nous avons suivi l’ostréiculteur Christophe Guinot et la brigade de gendarmerie nautique toute une journée à la recherche de voleurs d’huîtres. En 2020, c’était 16 tonnes d'huîtres qui avaient été volées sur le bassin. Sur son bateau, comme dans son restaurant, la créativité et la joie de vivre de notre interlocuteur m’a permis de raconter une belle histoire en images malgré l’importance du sujet.</p>
+				<p>Premier reportage vendu à une agence de presse britannique. Revendu 12 fois à des chaînes comme Cnews, Rfi et dans 6 pays étrangers. Nous avons suivi l’ostréiculteur Christophe Guinot et la brigade de gendarmerie nautique toute une journée à la recherche de voleurs d’huîtres. En 2020, ce sont 16 tonnes d'huîtres qui ont été volées sur le bassin. Sur son bateau, comme dans son restaurant, la créativité et la joie de vivre de notre interlocuteur m’ont permis de raconter une belle histoire en images malgré l’importance du sujet.</p>
 			</div>
 		</div>
 	</section>
@@ -52,7 +52,7 @@ last: true
 				<header class="major">
 					<h3>Reportage pour APM News</h3>
 				</header>
-				<p>Ce reportage réalisé pour l’agence de presse a pour but de reporter et de diffuser directement les actualités chaudes de la région. Notre principal travail d’agence est d’être les premiers sur l’actualité et dans le cas présent sur les manifestations du corps enseignants le 27 janvier 2022. Avec deux manifestations consécutives en moins de deux semaines, la tension était au rendez-vous mais les enseignants étaient néanmoins décidés à discuter de leurs préoccupations et de leurs revendications.</p>
+				<p>Ce reportage réalisé pour l’agence de presse a pour but de rapporter et de diffuser directement les actualités chaudes de la région. Notre principal travail d’agence est d’être les premiers sur l’actualité et dans le cas présent sur les manifestations du corps enseignant le 27 janvier 2022. Avec deux manifestations consécutives en moins de deux semaines, la tension était au rendez-vous mais les enseignants étaient néanmoins enclins à discuter de leurs préoccupations et de leurs revendications.</p>
 			</div>
 		</div>
 	</section>
