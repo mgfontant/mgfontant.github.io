@@ -13,15 +13,16 @@
     {% include header.html %}
 
     <!-- Banner -->
-    <section id="banner" class="major">
-        <div class="inner">
+    <section id="banner" class="major" style="max-height: 100vh">
+        <div class="inner" style="max-width: 85vw">
             <header class="major">
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Portfolio vidéo</a></li>
+                    <li><a href="#one" class="button specific-button next scrolly fit">Portfolio vidéo</a></li>
+                    <li><a href="#two" class="button specific-button next alt scrolly fit">Ma motivation</a></li>
                 </ul>
             </div>
         </div>
@@ -40,6 +41,12 @@
                     <h2>Pourquoi le journalisme ?</h2>
                 </header>
                 <p>{{ content }}</p>
+
+                <header class="major">
+                    <h2>Vidéo de présentation</h2>
+                </header>
+                <p align="center"><iframe width="1200" height="720" src="https://www.youtube.com/embed/m9yX7PQPZtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
             </div>
         </section>
 
