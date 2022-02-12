@@ -40,7 +40,7 @@ last: false
 				<header class="major">
 					<h3>Lancement</h3>
 				</header>
-				<p>Notre module “FOCUS”, est une émission de décryptage d’actualité en méditerranée. Après avoir réalisé le reportage, je me suis attelée au lancement et à la présentation de ce dernier. Le lancement est un exercice que je trouve particulièrement compliqué, si j’aime l’écrire, le présenter oralement est une toute autre tâche. Il s’agit d’avoir un débit régulier, pas trop rapide, d’articuler, tout en étant assez dynamique mais de ne pas trop exagérer les intonations pour ne pas tomber dans la caricature et surtout savoir comment positionner mes mains sur un plateau et devant une caméra. Je dois l’avouer je n’ai pas encore tout à fait trouver la technique pour paraître plus à l’aise, mais à force d’exercice et de remarques extérieures je m’améliore.</p>
+				<p>Notre module “FOCUS”, est une émission de décryptage d’actualité en méditerranée. Après avoir réalisé le reportage, je me suis attelée au lancement et à la présentation de ce dernier. Le lancement est un exercice que je trouve particulièrement compliqué; si j’aime l’écrire, le présenter oralement est une toute autre tâche. Il s’agit d’avoir un débit régulier, pas trop rapide, d’articuler, tout en étant assez dynamique et de ne pas trop exagérer les intonations pour ne pas tomber dans la caricature. Tout en maitrisant la gestuel sur un plateau et face caméra. Je dois l’avouer je n’ai pas encore trouvé la technique pour paraître plus à l’aise, toutefois à force d’exercice et de remarques extérieures, je m’améliore.</p>
 			</div>
 		</div>
 	</section>
