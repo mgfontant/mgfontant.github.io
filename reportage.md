@@ -30,7 +30,7 @@ last: true
 				<header class="major">
 					<h3>Reportage pour Reuters</h3>
 				</header>
-				<p>Premier reportage vendu à une agence de presse britannique. Revendu 12 fois à des chaînes comme Cnews, Rfi et dans 6 pays étrangers. Nous avons suivi l’ostréiculteur Christophe Guinot et la brigade de gendarmerie nautique toute une journée à la recherche de voleurs d’huîtres. En 2020, ce sont 16 tonnes d'huîtres qui ont été volées sur le bassin. Sur son bateau, comme dans son restaurant, la créativité et la joie de vivre de notre interlocuteur m’ont permis de raconter une belle histoire en images malgré l’importance du sujet.</p>
+				<p>Premier reportage vendu à une agence de presse britannique. Revendu 12 fois à des chaînes comme Cnews, Rfi et dans 6 pays étrangers. Nous avons suivi l’ostréiculteur Christophe Guinot et la brigade de gendarmerie nautique toute une journée à la recherche de voleurs d’huîtres. En 2020, ce sont 16 tonnes d'huîtres qui ont été volées sur le bassin. Pour ce reportage je me suis occupé des images ainsi que de l'interview de notre interlocuteur une fois à terre. Sur son bateau, comme dans son restaurant, la créativité et la joie de vivre de notre interlocuteur m’ont permis de raconter une belle histoire en images malgré l’importance du sujet.</p>
 			</div>
 		</div>
 	</section>
