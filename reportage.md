@@ -68,5 +68,11 @@ last: true
 		</div>
 	</section>
 </section>
+ <iframe width="600" height="500" src="https://i.vimeocdn.com/video/1464157658-939bce271157854bc2f3482ba6a1ab7c04ed9add66a878a239598737513fa586-d?mw=2100&amp;mh=1181&amp;q=70" allowfullscreen></iframe>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ours pour Reuters repris par le Parisien</h3>
+				</header>
+				<p>Travaillant pour une agence de presse, mon principal travail est de fournir des ours à nos médias clients. Initialement filmé pour Reuters, mes images ont été reprises par le Parisien: de la première image jusqu'à 0:45 secondes. Elles ont été prises le 9 février à l'occasion du départ du convoi de la liberté de Perpignan. Environ une centaine d'anti-pass et d'anciens gilets jaunes étaient présent pour la manifestation, peu de camions mais beaucoup de soutiens. J'ai pu interviewer un camionneur, ainsi que plusieurs participants au convoi allant jusqu'à Bruxelles. “Freedom, freedom, freedom” comme l'a scandé un des mes interlocuteurs, étaient la revendication principale de cet évenement. Si la tension était présente, l'amicalité et la solidarité ont vite pris le dessus: distribution de nourriture gratuite pour tous les participants et bidons d'essence pour les camionneurs etc. C'est en recontrant toutes ces personnes et écoutant leurs histoires que je réalise pourquoi j'aime le métier de journaliste.</p>
 
-</div>
