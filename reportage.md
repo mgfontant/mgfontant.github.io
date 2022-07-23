@@ -24,8 +24,7 @@ last: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-    <iframe width="600" height="500" src="https://www.youtube.com/embed/sIrmapc-trM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<div class="content">
+   <div class="vp-preview vp-preview-invisible vp-preview-cover" data-thumb="https://i.vimeocdn.com/video/1464157658-939bce271157854bc2f3482ba6a1ab7c04ed9add66a878a239598737513fa586-d?mw=2100&amp;mh=1181&amp;q=70" data-thumb-width="2100" style="background-image: url(&quot;https://i.vimeocdn.com/video/1464157658-939bce271157854bc2f3482ba6a1ab7c04ed9add66a878a239598737513fa586-d?mw=2100&amp;mh=1181&amp;q=70&quot;);"></div>
 			<div class="inner">
 				<header class="major">
 					<h3>Reportage pour Reuters</h3>
