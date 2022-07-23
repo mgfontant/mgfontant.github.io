@@ -67,7 +67,7 @@ last: true
 		</div>
 	</section>
 </section>
- <div class="vp-preview vp-preview-invisible vp-preview-cover" data-thumb="https://i.vimeocdn.com/video/1464157658-939bce271157854bc2f3482ba6a1ab7c04ed9add66a878a239598737513fa586-d?mw=2100&amp;mh=1181&amp;q=70" data-thumb-width="2100" style="background-image: url(&quot;https://i.vimeocdn.com/video/1464157658-939bce271157854bc2f3482ba6a1ab7c04ed9add66a878a239598737513fa586-d?mw=2100&amp;mh=1181&amp;q=70&quot;);"></div>
+<iframe src="https://player.vimeo.com/video/727315608?h=24e388db22&amp;dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
