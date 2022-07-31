@@ -24,7 +24,8 @@ last: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-   <iframe width="600" height="500" src="https://www.youtube.com/watch?v=sIrmapc-trM&t=19s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <iframe width="600" height="500" src="https://www.youtube.com/embed/sIrmapc-trM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Reportage pour Reuters</h3>
@@ -67,3 +68,5 @@ last: true
 		</div>
 	</section>
 </section>
+
+</div>
